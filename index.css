@@ -1,0 +1,37 @@
+body {
+  height: 400vh;
+}
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+}
+
+.first {
+  height: 100vh;
+  background-image: url(https://cdn.discordapp.com/attachments/727541480243331142/732359429361762397/starlinkstreak_desktop.jpg);
+  position: relative;
+}
+
+.launchbox {
+  position: absolute;
+  bottom: 15px;
+}
+
+p {
+  color: white;
+}
+
+.second {
+  height: 100vh;
+  position: relative;
+  background-image: url(https://cdn.discordapp.com/attachments/727541480243331142/732359443928580146/gps3_launch_desktop_02.jpg);
+}
+
+.third {
+  height: 100vh;
+  position: relative;
+  background-image: url(https://cdn.discordapp.com/attachments/727541480243331142/732359453621485609/home_demo2.jpg);
+}
